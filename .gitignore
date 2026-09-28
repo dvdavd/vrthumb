@@ -1,0 +1,11 @@
+/build*/
+/thumbnails*/
+*.jpg
+*.jpeg
+*.webp
+*.vtt
+*.mp4
+*.mkv
+*.webm
+compile_commands.json
+.cache/
